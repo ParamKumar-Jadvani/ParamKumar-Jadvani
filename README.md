@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Param Jadvani</h1>
 <h3 align="center">A passionate Full-Stack & Flutter developer from India</h3>
 
-<img src="https://github.com/ParamKumar-Jadvani/ParamKumar-Jadvani/assets/149695069/11f060a8-237f-46d6-bbfe-6931dfca21be" height="700px" width=""/>
+<img src="https://github.com/ParamKumar-Jadvani/ParamKumar-Jadvani/assets/149695069/11f060a8-237f-46d6-bbfe-6931dfca21be" width=""/>
 
 
 # 💫 About Me:
